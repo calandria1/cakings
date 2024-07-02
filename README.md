@@ -69,7 +69,8 @@
     </section>
     <section id="contacto">
         <h2>Contacto</h2>
-        <p>Si deseas ponerte en contacto conmigo para realizar un pedido o simplemente para conocer más sobre "Cakings", puedes enviarme un correo electrónico a <a href="mailto:info@cakings.com">info@cakings.com</a> o llamarme al +123 456 7890.</p>
+        <p>Si deseas ponerte en contacto conmigo para realizar un pedido o simplemente para conocer más sobre "Cakings", puedes enviarme un correo electrónico a <a href="mailto:fiama.15.nielsen@gmail.com">info@cakings.com</a>
+            
     </section>
     <footer>
         <p>&copy; 2024 Cakings. Todos los derechos reservados.</p>
